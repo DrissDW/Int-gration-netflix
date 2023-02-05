@@ -63,11 +63,10 @@ body {
 }
 
 header {
-    position: relative;
-    background-image: url('/images/netflix-bkg-image.jpeg');
-    padding-bottom: 120px;
-    background-size: cover;
-
+position: relative;
+background-image: url('https://drissdw.github.io/Int-gration-netflix/images/netflix-bkg-image.jpeg');
+padding-bottom: 120px;
+background-size: cover;
 }
 
 #header_Content {
