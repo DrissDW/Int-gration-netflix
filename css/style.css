@@ -12,6 +12,8 @@ body {
     font-family: "Helvetica Neue", helvetica, Arial, sans-serif;
     font-size: 1.6rem;
     color: white;
+    overflow-x: hidden;
+    overflow-y: auto ;
     
    
 }
@@ -19,8 +21,7 @@ body {
 .form_body {
     display: flex;
     justify-content: center;
-    overflow-x: hidden;
-    overflow-y: auto ;
+    
 
 
 
