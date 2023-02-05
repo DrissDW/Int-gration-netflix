@@ -67,7 +67,7 @@ body {
 
 header {
     position: relative;
-    background-image: url('./images/netflix-bkg-image.jpeg');
+    background-image: url('/images/netflix-bkg-image.jpeg');
     padding-bottom: 120px;
     background-size: cover;
 
