@@ -1,0 +1,122 @@
+@media screen and (max-width:800px) {
+
+    nav {
+
+        padding: 0 4px
+    }
+
+    #header_Nav_Logo {
+        width: 90px;
+    }
+
+    .form_body {
+        display: block;
+        justify-content: center;
+
+
+
+    }
+
+    .form_body input {
+        margin-bottom: 20px;
+        width: 350px;
+        height: 40px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #header_Content h1 {
+        font-size: 3.5rem;
+    }
+
+    #header_Content_Subtitle {
+        font-size: 2.5rem;
+    }
+
+    .form_body button {
+        font-size: 2rem;
+        width: 160px;
+        height: 50px;
+    }
+
+    #benefits_container section {
+        flex-direction: column;
+    }
+
+    #benefits_container #netflix_section_2,
+    #benefits_container #netflix_section_4 {
+        flex-direction: column-reverse;
+
+    }
+
+    #benefits_container section h2 {
+        text-align: center;
+        font-size: 3.5rem;
+    }
+
+    #benefits_container section p {
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    #netflix_section_1 img {
+        height: 250px;
+
+    }
+
+    #netflix_section_2 img {
+
+        height: 370px;
+        width: 450px;
+    }
+
+    #benefits_container section h2 {
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+
+    #netflix_section_4 img {
+        height: 350px;
+    }
+
+    #faq_container h2 {
+        font-size: 3.5rem;
+    }
+
+    body p,
+    #body li,
+    #body h3 {
+        font-size: 1.5rem;
+    }
+
+    .question {
+        padding-right: 10px;
+        padding-left: 18px;
+    }
+
+    .question_body {
+        padding-left: 18px;
+    }
+
+    footer {
+
+        width: 100%;
+        padding-left: 0px;
+        line-height: 200%;
+
+
+    }
+
+
+    #footer_links {
+        flex-wrap: wrap;
+
+
+    }
+
+
+    #list_2 {
+        padding-right: 32px;
+    }
+
+}
