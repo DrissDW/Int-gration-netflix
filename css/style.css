@@ -2,8 +2,8 @@
 
 html {
     font-size: 62.5%;
-    overflow-x: hidden !important;
-    overflow-y: auto !important;
+    overflow-x: hidden;
+    overflow-y: auto ;
 }
 
 body {
